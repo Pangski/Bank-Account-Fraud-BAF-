@@ -2,8 +2,6 @@
 
 **Nama:** Ethan Panggabean | **NIM:** 24110500012
 
-> Status: Kasus A selesai. Kasus B (sentimen ulasan) belum dikerjakan. File `Video_Games.csv` yang diterima.
-
 ## Metode dan alasan
 - Data: Bank Account Fraud (BAF) varian Base, month 0–3 (547.975 baris, penipu ±1%).
 - Preprocessing di dalam `Pipeline`: nilai `-1` pada 5 kolom dianggap hilang (diimputasi median + kolom indikator), angka di-scale, kategori di-one-hot.
