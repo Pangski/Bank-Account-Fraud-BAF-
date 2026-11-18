@@ -2,7 +2,7 @@
 
 **Nama:** Ethan Panggabean | **NIM:** 24110500012
 
-> Status: Kasus A selesai. Kasus B (sentimen ulasan) belum dikerjakan. File `Video_Games.csv` yang diterima tidak berisi judul dan teks ulasan.
+> Status: Kasus A selesai. Kasus B (sentimen ulasan) belum dikerjakan. File `Video_Games.csv` yang diterima.
 
 ## Metode dan alasan
 - Data: Bank Account Fraud (BAF) varian Base, month 0–3 (547.975 baris, penipu ±1%).
